@@ -9,9 +9,9 @@ Dataset contains images of ign language representation of numbers from 0 to 9 (1
 
 ## Data split
 
-  Train       85%
-  Validation  7.5%
-  Test        7.5%
+  * Train       85%
+  * Validation  7.5%
+  * Test        7.5%
 
 Kaggle link for this dataset: [link](https://www.kaggle.com/code/kabilan03/sign-language-classification)
 
